@@ -14,9 +14,3 @@ Color codes are taken from the project above.
 ## Install
 1. Download `spaceduck.json` into `~/.config/tilix/schemes/spaceduck.json`.
 2. Open: Tilix -> Preferences -> Profiles -> default -> Color -> Color scheme -> choose `Spaceduck`.
-
-
-
-## License
-
-[MIT License](./LICENSE)
